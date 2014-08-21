@@ -1,0 +1,164 @@
+Excercise 1
+
+
+C:\Users\Miran>cd dokumenter
+
+C:\Users\Miran\Dokumenter>
+
+
+Exercise 2
+
+
+C:\Users\Miran>cd dokumenter
+
+C:\Users\Miran\Dokumenter>mkdir xyz
+
+C:\Users\Miran\Dokumenter>cd xyz
+
+C:\Users\Miran\Dokumenter\xyz>chdir
+C:\Users\Miran\Dokumenter\xyz
+
+C:\Users\Miran\Dokumenter\xyz>
+
+
+Excercise 3
+
+
+
+C:\Users\Miran\Dokumenter\xyz>start notepad abc.txt
+
+C:\Users\Miran\Dokumenter\xyz>start notepad def.txt
+
+C:\Users\Miran\Dokumenter\xyz>dir
+ Disken i drev C er OS
+ Diskens serienummer er 2484-EBDD
+
+ Indhold af C:\Users\Miran\Dokumenter\xyz
+
+20-08-2014  17:36    <DIR>          .
+20-08-2014  17:36    <DIR>          ..
+20-08-2014  17:35                 0 abc.txt
+20-08-2014  17:36                 0 def.txt
+               2 fil(er)                0 byte
+               2 mappe(r)  121.828.552.704 byte ledig
+
+C:\Users\Miran\Dokumenter\xyz>
+
+
+Exercise 4
+
+
+
+C:\Users\Miran\Dokumenter>cd..
+
+C:\Users\Miran>dir
+ Disken i drev C er OS
+ Diskens serienummer er 2484-EBDD
+
+ Indhold af C:\Users\Miran
+
+19-08-2014  09:38    <DIR>          .
+19-08-2014  09:38    <DIR>          ..
+14-08-2014  04:06    <DIR>          .grasp_settings
+13-08-2014  08:59    <DIR>          .nbi
+05-03-2012  16:48    <DIR>          .oces2
+16-07-2013  13:34    <DIR>          .swt
+13-08-2014  03:34    <DIR>          Contacts
+08-08-2014  18:59           696.584 danid.log
+11-05-2014  11:07         1.076.559 danid.log.1
+20-08-2014  16:57    <DIR>          Desktop
+20-08-2014  17:23    <DIR>          Documents
+19-08-2014  11:16    <DIR>          Downloads
+26-06-2014  20:46    <DIR>          Dropbox
+13-08-2014  03:34    <DIR>          Favorites
+10-02-2014  20:16    <DIR>          Iphone
+13-08-2014  03:34    <DIR>          Links
+21-10-2013  02:03    <DIR>          Local Settings
+13-08-2014  03:34    <DIR>          Music
+13-08-2014  03:34    <DIR>          Pictures
+13-08-2014  03:34    <DIR>          Saved Games
+13-08-2014  03:34    <DIR>          Searches
+13-08-2014  03:34    <DIR>          Videos
+12-05-2014  10:40    <DIR>          visualparadigm
+13-05-2014  15:51    <DIR>          vpworkspace
+19-08-2014  10:22    <DIR>          workspace
+               2 fil(er)        1.773.143 byte
+              23 mappe(r)  121.828.458.496 byte ledig
+
+C:\Users\Miran>cd..
+
+C:\Users>dir
+ Disken i drev C er OS
+ Diskens serienummer er 2484-EBDD
+
+ Indhold af C:\Users
+
+18-01-2014  20:42    <DIR>          .
+18-01-2014  20:42    <DIR>          ..
+18-01-2014  20:42    <DIR>          Administrator
+18-01-2014  20:42    <DIR>          Gæst
+18-01-2014  20:42    <DIR>          HomeGroupUser$
+19-08-2014  09:38    <DIR>          Miran
+17-07-2014  16:33    <DIR>          Public
+12-08-2014  17:06    <DIR>          UpdatusUser
+               0 fil(er)                0 byte
+               8 mappe(r)  121.828.458.496 byte ledig
+
+C:\Users>
+
+
+Exercise 5
+
+
+
+C:\Users\Miran\Dokumenter>cd xyz
+
+C:\Users\Miran\Dokumenter\xyz>del def.txt
+
+C:\Users\Miran\Dokumenter\xyz>chdir
+C:\Users\Miran\Dokumenter\xyz
+
+C:\Users\Miran\Dokumenter\xyz>dir
+ Disken i drev C er OS
+ Diskens serienummer er 2484-EBDD
+
+ Indhold af C:\Users\Miran\Dokumenter\xyz
+
+20-08-2014  17:46    <DIR>          .
+20-08-2014  17:46    <DIR>          ..
+20-08-2014  17:35                 0 abc.txt
+               1 fil(er)                0 byte
+               2 mappe(r)  121.828.085.760 byte ledig
+
+C:\Users\Miran\Dokumenter\xyz>rename abc.txt xyz.txt
+
+C:\Users\Miran\Dokumenter\xyz>dir
+ Disken i drev C er OS
+ Diskens serienummer er 2484-EBDD
+
+ Indhold af C:\Users\Miran\Dokumenter\xyz
+
+20-08-2014  17:48    <DIR>          .
+20-08-2014  17:48    <DIR>          ..
+20-08-2014  17:35                 0 xyz.txt
+               1 fil(er)                0 byte
+               2 mappe(r)  121.828.048.896 byte ledig
+
+C:\Users\Miran\Dokumenter\xyz>
+
+
+Exercise 6
+
+
+
+C:\Users\Miran\Dokumenter\xyz>start notepad.exe
+
+C:\Users\Miran\Dokumenter\xyz>
+
+
+Exercise 7
+
+
+C:\Users\Miran>exit
+
+
